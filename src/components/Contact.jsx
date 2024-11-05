@@ -25,7 +25,7 @@ const Contact = () => {
                   <FaGithub/>
               < /a>
               {/* LeetCode Link */}
-                <a href="https://leetcode.com/your-profile" target="_blank"
+                <a href="https://leetcode.com/u/Pratibh29/" target="_blank"
                     rel="noopener noreferrer"
                     aria-label="LeetCode" className="text-white hover:text-gray-500">
                     <SiLeetcode />
